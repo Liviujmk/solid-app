@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "My first article",
+      "body": "This is my first article. It is about my family and our holiday. We went to the beach and had a great time.",
+      "tags": ["Home", "Family", "Holiday","Travel"]
+    },
+    {
+      "id": 2,
+      "title": "My second article",
+      "body": "This is my second article. It is about my family and our holiday. We went to the beach and had a great time.",
+      "tags": ["Home", "Family", "Holiday","Travel"]
+    },
+    {
+      "id": 3,
+      "title": "My third article",
+      "body": "This is my third article. It is about my family and our holiday. We went to the beach and had a great time.",
+      "tags": ["Home", "Family"]
+    },
+    {
+      "id": 4,
+      "title": "My fourth article",
+      "body": "This is my fourth article. It is about my family and our holiday. We went to the beach and had a great time.",
+      "tags": ["Home", "Family"]
+    },
+    {
+      "id": 5,
+      "title": "My fifth article",
+      "body": "This is my fifth article. It is about my family and our holiday. We went to the beach and had a great time.",
+      "tags": ["Home", "Family", "Holiday","Travel"]
+    },
+    {
+      "id": 6,
+      "title": "My sixth article",
+      "body": "This is my sixth article. It is about my family and our holiday. We went to the beach and had a great time.",
+      "tags": ["Home", "Family"]
+    },
+    {
+      "id": 7,
+      "title": "My seventh article",
+      "body": "This is my seventh article. It is about my family and our holiday. We went to the beach and had a great time.",
+      "tags": ["Home", "Family", "Holiday","Travel"]
+    },
+    {
+      "id": 8,
+      "title": "My eighth article",
+      "body": "This is my eighth article. It is about my family and our holiday. We went to the beach and had a great time.",
+      "tags": ["Home", "Family"]
+    },
+    {
+      "id": 9,
+      "title": "My ninth article",
+      "body": "This is my ninth article. It is about my family and our holiday. We went to the beach and had a great time.",
+      "tags": ["Home", "Family"]
+    },
+    {
+      "id": 10,
+      "title": "My tenth article",
+      "body": "This is my tenth article. It is about my family and our holiday. We went to the beach and had a great time.",
+      "tags": ["Home", "Family"]
+    }
+  ]
+}
